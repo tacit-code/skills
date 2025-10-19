@@ -1,7 +1,7 @@
 ---
 name: protective-licensing
 description: Comprehensive tool for applying protective intellectual property licensing to custom skills. This skill should be used when users want to protect their custom skills from AI training, establish copyright ownership (individual or corporate entities), add dual-entity licensing, ensure IP protection, or apply the Protective Skills License to prevent unauthorized use of their skill content for machine learning model training.
-license: MILITARY-GRADE LICENSE v2.0 - See LICENSE.txt
+license: MAXIMUM PROTECTION LICENSE v2.0 - See LICENSE.txt
 ---
 
 # Protective Licensing

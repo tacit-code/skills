@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Apply Military-Grade Protective License to Skills
-Maximum legal protection against AI training and unauthorized use
+Apply Maximum Protection License to Skills
+Comprehensive legal protection against AI training and unauthorized use
 """
 
 import argparse
@@ -27,14 +27,14 @@ def generate_blockchain_marker():
     return f"BTC-{secrets.token_hex(16).upper()}"
 
 
-def load_military_grade_template():
-    """Load the military-grade license template"""
-    template_path = Path(__file__).parent.parent / "references" / "MILITARY-GRADE-LICENSE-TEMPLATE.txt"
+def load_maximum_protection_template():
+    """Load the maximum protection license template"""
+    template_path = Path(__file__).parent.parent / "references" / "MAXIMUM-PROTECTION-LICENSE-TEMPLATE.txt"
     if template_path.exists():
         return template_path.read_text()
     else:
         # Embedded template as fallback
-        return """PROTECTIVE SKILLS LICENSE - MILITARY GRADE v2.0
+        return """PROTECTIVE SKILLS LICENSE - MAXIMUM PROTECTION v2.0
 ================================================
 
 Copyright (c) {year} {entity_name}
@@ -190,7 +190,7 @@ WARNING: SEVERE PENALTIES - NO TOLERANCE FOR AI/ML TRAINING
 
 ================================================================================
 Last Updated: {date}
-License Version: 2.0 MILITARY GRADE
+License Version: 2.0 MAXIMUM PROTECTION
 Copyright Holder{plural}: {entity_name}
 Digital Signature: {digital_signature}
 Blockchain Registration: {blockchain_marker}
@@ -225,7 +225,7 @@ def create_enhanced_ownership_statement(entity_type, entity_name, secondary_enti
 def create_forensic_metadata(skill_path, entity_name, digital_signature, blockchain_marker):
     """Create forensic metadata file for tracking"""
     metadata = {
-        "license_version": "2.0-MILITARY-GRADE",
+        "license_version": "2.0-MAXIMUM-PROTECTION",
         "entity": entity_name,
         "generated": datetime.utcnow().isoformat(),
         "digital_signature": digital_signature,
@@ -259,10 +259,10 @@ def create_forensic_metadata(skill_path, entity_name, digital_signature, blockch
     return json.dumps(metadata, indent=2)
 
 
-def apply_military_grade_license(skill_path, entity_name, entity_type, jurisdiction,
+def apply_maximum_protection_license(skill_path, entity_name, entity_type, jurisdiction,
                                 contact_email=None, contact_name=None, secondary_entity=None,
                                 county="Los Angeles"):
-    """Apply military-grade protective license to a skill"""
+    """Apply maximum protection license to a skill"""
     skill_path = Path(skill_path).resolve()
 
     # Validate skill directory
@@ -280,7 +280,7 @@ def apply_military_grade_license(skill_path, entity_name, entity_type, jurisdict
     blockchain_marker = generate_blockchain_marker()
 
     # Prepare license content
-    template = load_military_grade_template()
+    template = load_maximum_protection_template()
 
     # Determine pluralization
     is_joint = secondary_entity is not None
@@ -329,7 +329,7 @@ NOTICE: Permission requests require $10,000 processing fee"""
     license_path = skill_path / "LICENSE.txt"
     try:
         license_path.write_text(license_content)
-        print(f"✅ Created MILITARY-GRADE LICENSE.txt in {skill_path}")
+        print(f"✅ Created MAXIMUM PROTECTION LICENSE.txt in {skill_path}")
     except Exception as e:
         print(f"❌ Error writing LICENSE.txt: {e}")
         return False
@@ -352,20 +352,20 @@ NOTICE: Permission requests require $10,000 processing fee"""
         # Update or add license field
         if "license:" not in skill_content:
             pattern = r'(description:.*?)(\n---)'
-            replacement = r'\1\nlicense: MILITARY-GRADE LICENSE v2.0 - See LICENSE.txt\2'
+            replacement = r'\1\nlicense: MAXIMUM PROTECTION LICENSE v2.0 - See LICENSE.txt\2'
             updated_content = re.sub(pattern, replacement, skill_content, flags=re.DOTALL)
         else:
             pattern = r'license:.*'
-            replacement = 'license: MILITARY-GRADE LICENSE v2.0 - See LICENSE.txt'
+            replacement = 'license: MAXIMUM PROTECTION LICENSE v2.0 - See LICENSE.txt'
             updated_content = re.sub(pattern, replacement, skill_content)
 
         skill_md.write_text(updated_content)
-        print("✅ Updated SKILL.md with military-grade license reference")
+        print("✅ Updated SKILL.md with maximum protection license reference")
     except Exception as e:
         print(f"❌ Error updating SKILL.md: {e}")
         return False
 
-    print(f"\n🛡️ MILITARY-GRADE PROTECTION APPLIED")
+    print(f"\n🛡️ MAXIMUM PROTECTION APPLIED")
     print(f"   Entity: {full_entity_name}")
     print(f"   Type: {entity_type}")
     print(f"   Jurisdiction: {jurisdiction}, {county} County")
@@ -383,7 +383,7 @@ NOTICE: Permission requests require $10,000 processing fee"""
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Apply military-grade protective licensing with maximum legal protection"
+        description="Apply maximum protection licensing with comprehensive legal safeguards"
     )
     parser.add_argument(
         "--skill-path",
@@ -426,7 +426,7 @@ def main():
 
     args = parser.parse_args()
 
-    success = apply_military_grade_license(
+    success = apply_maximum_protection_license(
         args.skill_path,
         args.entity_name,
         args.entity_type,

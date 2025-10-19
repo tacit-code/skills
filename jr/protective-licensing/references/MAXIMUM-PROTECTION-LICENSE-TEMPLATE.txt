@@ -1,4 +1,4 @@
-PROTECTIVE SKILLS LICENSE - MILITARY GRADE v2.0
+PROTECTIVE SKILLS LICENSE - MAXIMUM PROTECTION v2.0
 ================================================
 
 Copyright (c) {year} {entity_name}
@@ -271,7 +271,7 @@ civil and criminal law. There is no tolerance for AI/ML training use.
 
 ================================================================================
 Last Updated: {date}
-License Version: 2.0 MILITARY GRADE
+License Version: 2.0 MAXIMUM PROTECTION
 Copyright Holder{plural}: {entity_name}
 Digital Signature: [Cryptographic Hash]
 Blockchain Registration: [Transaction ID]

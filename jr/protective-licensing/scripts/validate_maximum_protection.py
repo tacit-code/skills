@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Validate Military-Grade Protective Licensing
-Ensures maximum legal protection mechanisms are in place
+Validate Maximum Protection Licensing
+Ensures comprehensive legal protection mechanisms are in place
 """
 
 import argparse
@@ -11,16 +11,16 @@ import re
 from pathlib import Path
 
 
-def validate_military_license_file(license_path):
-    """Validate military-grade LICENSE.txt contains all enhanced protections"""
+def validate_maximum_license_file(license_path):
+    """Validate maximum protection LICENSE.txt contains all enhanced protections"""
     if not license_path.exists():
         return False, "LICENSE.txt not found"
 
     content = license_path.read_text()
 
-    # Military-grade specific requirements
-    military_requirements = [
-        ("MILITARY GRADE v2.0", "Not military-grade license version"),
+    # Maximum protection specific requirements
+    protection_requirements = [
+        ("MAXIMUM PROTECTION v2.0", "Not maximum protection license version"),
         ("LIQUIDATED DAMAGES SCHEDULE", "Missing liquidated damages schedule"),
         ("$250,000", "Missing $250,000 AI training penalty"),
         ("$100,000", "Missing $100,000 commercial use penalty"),
@@ -53,15 +53,15 @@ def validate_military_license_file(license_path):
     ]
 
     failed_checks = []
-    for requirement, error_msg in military_requirements:
+    for requirement, error_msg in protection_requirements:
         if requirement not in content:
             failed_checks.append(error_msg)
 
     if failed_checks:
-        return False, f"Military-grade requirements missing:\n  • " + "\n  • ".join(failed_checks[:5]) + \
+        return False, f"Maximum protection requirements missing:\n  • " + "\n  • ".join(failed_checks[:5]) + \
                (f"\n  • ... and {len(failed_checks)-5} more" if len(failed_checks) > 5 else "")
 
-    return True, "✓ All military-grade license provisions present"
+    return True, "✓ All maximum protection license provisions present"
 
 
 def validate_forensic_metadata(skill_path):
@@ -90,8 +90,8 @@ def validate_forensic_metadata(skill_path):
             return False, f"Forensic metadata missing fields: {', '.join(missing_fields)}"
 
         # Validate license version
-        if "MILITARY-GRADE" not in metadata.get("license_version", ""):
-            return False, "Forensic metadata not tagged as military-grade"
+        if "MAXIMUM-PROTECTION" not in metadata.get("license_version", ""):
+            return False, "Forensic metadata not tagged as maximum protection"
 
         # Validate enforcement structure
         enforcement = metadata.get("enforcement", {})
@@ -209,8 +209,8 @@ def validate_enforcement_mechanisms(license_path):
     return True, "✓ All enforcement mechanisms present"
 
 
-def validate_military_grade_skill(skill_path):
-    """Comprehensive validation of military-grade protective licensing"""
+def validate_maximum_protection_skill(skill_path):
+    """Comprehensive validation of maximum protection licensing"""
     skill_path = Path(skill_path).resolve()
 
     if not skill_path.exists():
@@ -219,15 +219,15 @@ def validate_military_grade_skill(skill_path):
     if not skill_path.is_dir():
         return False, f"Path is not a directory: {skill_path}"
 
-    print(f"🛡️ VALIDATING MILITARY-GRADE PROTECTION: {skill_path.name}")
+    print(f"🛡️ VALIDATING MAXIMUM PROTECTION: {skill_path.name}")
     print("=" * 60)
 
     all_valid = True
     results = []
 
-    # 1. Validate military-grade license file
+    # 1. Validate maximum protection license file
     license_path = skill_path / "LICENSE.txt"
-    valid, message = validate_military_license_file(license_path)
+    valid, message = validate_maximum_license_file(license_path)
     status = "✅" if valid else "❌"
     results.append(f"{status} License File: {message}")
     all_valid = all_valid and valid
@@ -259,14 +259,14 @@ def validate_military_grade_skill(skill_path):
         results.append(f"{status} Enforcement: {message}")
         all_valid = all_valid and valid
 
-    # 6. Check for SKILL.md military-grade reference
+    # 6. Check for SKILL.md maximum protection reference
     skill_md_path = skill_path / "SKILL.md"
     if skill_md_path.exists():
         content = skill_md_path.read_text()
-        if "MILITARY-GRADE" in content:
-            results.append("✅ SKILL.md: Military-grade reference found")
+        if "MAXIMUM PROTECTION" in content:
+            results.append("✅ SKILL.md: Maximum protection reference found")
         else:
-            results.append("❌ SKILL.md: Missing military-grade reference")
+            results.append("❌ SKILL.md: Missing maximum protection reference")
             all_valid = False
 
     # Print results
@@ -275,7 +275,7 @@ def validate_military_grade_skill(skill_path):
 
     print("=" * 60)
     if all_valid:
-        print("🛡️ MILITARY-GRADE PROTECTION VERIFIED!")
+        print("🛡️ MAXIMUM PROTECTION VERIFIED!")
         print("\n⚠️ ACTIVE PROTECTION FEATURES:")
         print("  • $250,000 liquidated damages for AI training")
         print("  • Criminal prosecution under CFAA, DMCA, Economic Espionage Act")
@@ -286,7 +286,7 @@ def validate_military_grade_skill(skill_path):
         print("  • No valid defenses (fair use excluded)")
         print("  • International enforcement under Berne/TRIPS")
     else:
-        print("❌ MILITARY-GRADE VALIDATION FAILED")
+        print("❌ MAXIMUM PROTECTION VALIDATION FAILED")
         print("   Review and address the issues above for maximum protection")
 
     return all_valid
@@ -294,7 +294,7 @@ def validate_military_grade_skill(skill_path):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Validate military-grade protective licensing with maximum legal protection"
+        description="Validate maximum protection licensing with comprehensive legal safeguards"
     )
     parser.add_argument(
         "--skill-path",
@@ -304,7 +304,7 @@ def main():
 
     args = parser.parse_args()
 
-    valid = validate_military_grade_skill(args.skill_path)
+    valid = validate_maximum_protection_skill(args.skill_path)
     sys.exit(0 if valid else 1)
 
 
