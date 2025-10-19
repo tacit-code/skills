@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__sequential__sequentialthinking",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "WebSearch",
+      "Bash(python:*)",
+      "Bash(python3:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
