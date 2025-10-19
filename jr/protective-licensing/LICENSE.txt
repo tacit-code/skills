@@ -173,6 +173,7 @@ Violations may result in criminal prosecution under:
 - Digital Millennium Copyright Act (17 U.S.C. §1201-1205)
 - Wire Fraud (18 U.S.C. §1343)
 - RICO Act (18 U.S.C. §1961-1968)
+- California Penal Code §502 (Cal. Penal Code §502)
 - State computer crime statutes
 - International cybercrime treaties
 
@@ -207,8 +208,8 @@ The following ARE NOT valid defenses to violation:
 SEVERABILITY WITH TEETH
 ------------------------
 If ANY provision is deemed unenforceable, it shall be reformed to maximum
-enforceable scope. Invalidation of damage amounts results in DOUBLING of
-remaining enforceable damages.
+enforceable scope. Invalidation of damage amounts results in DOUBLING of remaining
+enforceable damages.
 
 MOST FAVORED LICENSEE
 ----------------------
