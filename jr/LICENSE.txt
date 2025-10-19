@@ -1,0 +1,328 @@
+PROTECTIVE LICENSE - MILITARY GRADE v2.0
+FOR JR DIRECTORY AND ALL CONTENTS
+================================================
+
+Copyright (c) 2025 James H. Rosing, MD, INC and Tacit Investments, LLC
+All rights reserved.
+
+This directory and ALL its contents (including but not limited to all files,
+subdirectories, documentation, code, and intellectual property) are jointly
+owned by James H. Rosing, MD, INC, a medical corporation organized under
+California law, and Tacit Investments, LLC, a limited liability company.
+
+Both entities retain full enforcement rights independently and jointly.
+
+This work constitutes valuable trade secrets and proprietary information.
+Unauthorized use may result in both civil and criminal prosecution.
+
+NOTICE: This directory contains proprietary trade secrets, confidential
+information, and intellectual property protected under U.S. and international
+law. Any unauthorized access, use, reproduction, or distribution may subject
+violators to severe civil and criminal penalties.
+
+DIGITAL FINGERPRINT REQUIREMENT
+--------------------------------
+All contents incorporate digital watermarking and cryptographic signatures.
+Any use, access, or distribution creates forensic evidence of interaction that
+may be used in legal proceedings. By accessing ANY file in this directory, you
+consent to forensic analysis of your systems if violations are suspected.
+
+Digital Signature: SHA256:jr-protective-2025-rosing-tacit
+Blockchain Registration: BTC-JR-PROTECTED-2025-MEDICAL-LLC
+
+GRANT OF LICENSE
+----------------
+Subject to STRICT COMPLIANCE with ALL terms herein, a LIMITED, REVOCABLE,
+NON-EXCLUSIVE, NON-TRANSFERABLE, NON-SUBLICENSABLE license is granted solely to:
+
+1. Use for personal, educational, or internal business purposes only
+2. View and study SOLELY for learning (not training) purposes
+3. Include FULL attribution in ANY reference
+
+This license automatically terminates upon ANY violation, attempted violation,
+or challenge to its validity.
+
+ABSOLUTE PROHIBITIONS - LIQUIDATED DAMAGES APPLY
+-------------------------------------------------
+The following uses are ABSOLUTELY PROHIBITED and subject to LIQUIDATED DAMAGES
+of $250,000 USD per violation, plus additional remedies:
+
+1. AI/ML TRAINING PROHIBITION - $250,000 PER INSTANCE
+
+   This directory and ALL its contents SHALL NOT, MUST NOT, and CANNOT be used:
+
+   a) As training data for ANY artificial intelligence, machine learning,
+      large language model, neural network, or automated learning system
+
+   b) For fine-tuning, pre-training, post-training, or ANY model adjustment
+
+   c) For creating embeddings, vectors, tensors, or representations
+
+   d) For retrieval-augmented generation (RAG) or hybrid systems
+
+   e) For data mining, scraping, crawling, or automated extraction
+
+   f) For synthetic data generation or derivative AI content
+
+   g) As input to ANY system that learns, adapts, or derives patterns
+
+   h) For benchmarking, evaluation, or testing of AI/ML systems
+
+   i) For research involving machine learning or artificial intelligence
+
+   j) In ANY way that could enable AI/ML capability development
+
+   CRIMINAL NOTICE: Violations may constitute violations of the Computer Fraud
+   and Abuse Act (18 U.S.C. §1030), Economic Espionage Act (18 U.S.C. §1831),
+   Digital Millennium Copyright Act (17 U.S.C. §1201), and applicable state
+   computer crime statutes.
+
+2. COMMERCIAL USE PROHIBITION - $100,000 PER INSTANCE
+   NO commercial use, monetization, or value derivation without written license
+   agreement signed by all copyright holders and notarized.
+
+3. REDISTRIBUTION PROHIBITION - $50,000 PER INSTANCE
+   NO redistribution, sharing, publishing, or availability through ANY medium,
+   platform, or repository.
+
+4. MODIFICATION PROHIBITION - $75,000 PER INSTANCE
+   NO derivative works, modifications, adaptations, or alterations.
+
+5. REVERSE ENGINEERING PROHIBITION - $150,000 PER INSTANCE
+   NO decompilation, disassembly, or attempt to derive source code, algorithms,
+   or implementation details.
+
+6. CIRCUMVENTION PROHIBITION - $500,000 + CRIMINAL PENALTIES
+   NO attempt to circumvent, disable, or interfere with security features,
+   license enforcement, or digital rights management.
+
+AFFIRMATIVE OBLIGATIONS
+------------------------
+By accessing this directory or ANY of its contents, you AGREE TO:
+
+1. Maintain complete audit logs of all access and use
+2. Implement technical measures preventing unauthorized use
+3. Report any suspected violations immediately to copyright holders
+4. Preserve all evidence of your use for 7 years
+5. Submit to forensic examination upon reasonable suspicion
+6. Cooperate fully with enforcement actions
+
+LIQUIDATED DAMAGES SCHEDULE
+----------------------------
+Parties agree actual damages are difficult to ascertain and stipulate:
+
+- AI/ML Training Violation: $250,000 per instance
+- Commercial Use Violation: $100,000 per instance
+- Redistribution Violation: $50,000 per instance
+- Modification Violation: $75,000 per instance
+- Reverse Engineering: $150,000 per instance
+- Circumvention Attempt: $500,000 per instance
+- Continuing Violations: $10,000 per day
+- Willful Violations: TRIPLE all damages
+- Major Tech Companies (>$1B market cap): 10x all damages ($2.5M minimum)
+
+These amounts are MINIMUM damages. Actual damages, if greater, may be pursued.
+
+ENHANCED REMEDIES
+-----------------
+Upon ANY violation, copyright holders are entitled to:
+
+1. IMMEDIATE INJUNCTIVE RELIEF without bond requirement
+2. TREBLE DAMAGES for willful violations
+3. PUNITIVE DAMAGES up to $10,000,000
+4. ALL attorneys' fees (including appeals) at 3x multiplier
+5. EXPERT WITNESS fees and forensic costs
+6. DISGORGEMENT of all profits, revenues, and benefits
+7. DESTRUCTION of all copies and derivatives
+8. PUBLIC DISCLOSURE of violation and violator identity
+9. CRIMINAL REFERRAL to appropriate authorities
+10. REGULATORY REPORTING to relevant agencies
+
+PERSONAL LIABILITY
+------------------
+Individuals who authorize, direct, participate in, or benefit from violations
+are PERSONALLY LIABLE regardless of corporate structure. This includes:
+
+- Officers, directors, and managers
+- Employees and contractors
+- Investors aware of violations
+- Parent and subsidiary entities
+- Successors and assigns
+
+Corporate veils SHALL be pierced for AI/ML training violations as crimes
+against intellectual property rights.
+
+FORUM SELECTION AND PROCEDURE
+------------------------------
+EXCLUSIVE JURISDICTION: Superior Court of California, Los Angeles County
+APPLICABLE LAW: California and applicable U.S. Federal law
+NO JURY TRIAL: Violators waive jury trial rights (copyright holders retain)
+EXPEDITED PROCEEDINGS: TRO/injunctions on 24-hour notice
+SERVICE: Email to last known address constitutes valid service
+STATUTE OF LIMITATIONS: 10 years from discovery, no repose period
+BOND: Challengers must post $1,000,000 bond to contest enforcement
+
+TECHNICAL ENFORCEMENT
+----------------------
+This directory and all contents contain:
+- Cryptographic signatures and hashes
+- Digital watermarks (visible and steganographic)
+- Blockchain registration markers
+- Forensic tracking codes
+- Usage pattern fingerprints
+
+Removal or alteration constitutes additional violation with $500,000 penalty.
+
+CRIMINAL LAW NOTICE
+--------------------
+Violations may result in criminal prosecution under:
+
+- Computer Fraud and Abuse Act (18 U.S.C. §1030)
+- Economic Espionage Act (18 U.S.C. §1831-1839)
+- Digital Millennium Copyright Act (17 U.S.C. §1201-1205)
+- Wire Fraud (18 U.S.C. §1343)
+- RICO Act (18 U.S.C. §1961-1968)
+- California Penal Code §502 (Cal. Penal Code §502)
+- State computer crime statutes
+- International cybercrime treaties
+
+COPYRIGHT HOLDERS WILL seek criminal prosecution for AI/ML training violations.
+
+INTERNATIONAL ENFORCEMENT
+-------------------------
+This license is enforceable globally under:
+- Berne Convention for the Protection of Literary and Artistic Works
+- TRIPS Agreement (Trade-Related Aspects of Intellectual Property Rights)
+- WIPO Copyright Treaty
+- Budapest Convention on Cybercrime
+- Bilateral IP enforcement treaties
+
+Violators consent to jurisdiction in any country where enforcement is sought.
+
+NO DEFENSE CLAUSE
+-----------------
+The following ARE NOT valid defenses to violation:
+
+1. Lack of knowledge or intent
+2. Industry custom or practice
+3. Fair use or research exception
+4. Non-commercial purpose
+5. De minimis use
+6. Transformative use
+7. Interoperability needs
+8. Error or accident
+9. Third-party action
+10. Technical inevitability
+
+SEVERABILITY WITH TEETH
+------------------------
+If ANY provision is deemed unenforceable, it shall be reformed to maximum
+enforceable scope. Invalidation of damage amounts results in DOUBLING of remaining
+enforceable damages.
+
+MOST FAVORED LICENSEE
+----------------------
+If copyright holders grant more favorable terms to ANY other party, you may
+NOT claim those terms. Each license stands alone.
+
+AUDIT RIGHTS
+------------
+Copyright holders may audit your systems with 48-hour notice. Refusal
+constitutes admission of violation with maximum damages applied.
+
+NON-WAIVER
+----------
+No term may be waived except by written agreement signed by all copyright
+holders, notarized, and expressly stating waiver intent. Failure to enforce
+does not constitute waiver.
+
+INTEGRATION
+-----------
+This license is the COMPLETE agreement. Any other understandings are VOID.
+Modifications require written agreement with same formalities as waiver.
+
+SURVIVAL
+--------
+All provisions survive termination, especially prohibitions, damages, and
+enforcement rights.
+
+ACKNOWLEDGMENT
+--------------
+BY ACCESSING THIS DIRECTORY OR ANY FILE WITHIN, YOU ACKNOWLEDGE:
+1. You have read and understood ALL terms
+2. You have authority to bind your entity
+3. You accept PERSONAL LIABILITY for violations
+4. You consent to ALL enforcement mechanisms
+5. You WAIVE all defenses and challenges
+
+PERMISSION REQUESTS
+-------------------
+James Rosing
+James H. Rosing, MD, INC
+Email: jamesrosing@gmail.com
+NOTICE: Permission requests require $10,000 processing fee
+
+Permissions require:
+- Written application with intended use
+- $10,000 non-refundable processing fee
+- Liability insurance ($10M minimum)
+- Compliance bond ($100,000)
+- Quarterly usage reports
+
+GOVERNING LAW
+-------------
+Laws of California and United States Federal law apply.
+Conflicts of law principles do not apply.
+This license shall be construed STRICTLY against violators.
+
+EFFECTIVE DATE
+--------------
+This license takes effect upon ANY access, viewing, or interaction with this
+directory or any of its contents. Continued retention constitutes ongoing acceptance.
+
+WARNING: THIS IS A LEGALLY BINDING CONTRACT WITH SEVERE PENALTIES
+===================================================================
+
+By accessing this directory, you accept PERSONAL and CORPORATE liability for
+compliance. Violations will be prosecuted to the maximum extent possible under
+civil and criminal law. There is no tolerance for AI/ML training use.
+
+DIRECTORY CONTENTS COVERED
+--------------------------
+This license applies to ALL files and subdirectories within /jr/, including but
+not limited to:
+- PROTECTIVE-SKILLS-LICENSE.txt
+- jr-create-custom-skill.md
+- LICENSE.md
+- protective-licensing/ (and all its contents)
+- protective-licensing.zip
+- All future files added to this directory
+
+================================================================================
+Last Updated: October 19, 2025
+License Version: 2.0 MILITARY GRADE - DIRECTORY PROTECTION
+Copyright Holders: James H. Rosing, MD, INC and Tacit Investments, LLC
+Digital Signature: SHA256:jr-protective-2025-rosing-tacit
+Blockchain Registration: BTC-JR-PROTECTED-2025-MEDICAL-LLC
+================================================================================
+
+ADDENDUM: ENHANCED PENALTIES FOR SPECIFIC VIOLATIONS
+-----------------------------------------------------
+
+AI TRAINING BY MAJOR TECH COMPANIES
+Entities with >$1B market cap: 10x all damages ($2.5M minimum per violation)
+
+PATTERN VIOLATIONS
+3+ violations: Permanent injunction + $25M penalty
+
+EXPORT VIOLATIONS
+Cross-border AI training: Additional penalties under ITAR/EAR regulations
+
+EVIDENCE SPOLIATION
+Destruction of evidence: $1M penalty + adverse inference
+
+CONSPIRACY
+Multiple parties: Joint and several liability + RICO treble damages
+
+This license represents maximum legal protection under applicable law for this
+directory and ALL its contents.
