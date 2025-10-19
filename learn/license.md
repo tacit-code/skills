@@ -1,0 +1,113 @@
+PROTECTIVE SKILLS LICENSE v1.0
+================================
+
+Copyright (c) 2025 James H. Rosing, MD, INC and Tacit Investments, LLC
+All rights reserved.
+
+This work is jointly owned by James H. Rosing, MD, INC (a California medical
+corporation) and Tacit Investments, LLC (a Delaware limited liability company).
+Both entities hold all rights, title, and interest in this work.
+
+GRANT OF LICENSE
+----------------
+Subject to the terms and conditions below, you are granted a limited,
+non-exclusive, non-transferable license to:
+
+1. Use this skill for personal, educational, or internal business purposes
+2. View and study the skill's code and documentation for learning purposes
+3. Include attribution when referencing or discussing this skill
+
+EXPLICIT PROHIBITIONS
+---------------------
+The following uses are STRICTLY PROHIBITED without prior written permission:
+
+1. AI/ML TRAINING PROHIBITION
+   This skill and all its components (including but not limited to: instruction
+   text, code, scripts, documentation, examples, and metadata) SHALL NOT be used:
+
+   a) As training data for any artificial intelligence system, machine learning
+      model, large language model (LLM), neural network, or other automated
+      learning system
+
+   b) For fine-tuning, pre-training, or post-training of AI/ML models
+
+   c) For creating embeddings, vector representations, or knowledge bases used
+      in AI systems
+
+   d) For retrieval-augmented generation (RAG) systems or similar AI-assisted
+      retrieval systems
+
+   e) For data mining, web scraping, or automated extraction for AI purposes
+
+   f) For any form of synthetic data generation or AI-assisted derivative works
+
+   g) As input to any automated system that generates, modifies, or derives
+      content based on analysis of this work
+
+2. COMMERCIAL USE RESTRICTION
+   You may NOT use, sell, license, or commercialize this skill or derivative
+   works without explicit written permission from the copyright holders.
+
+3. REDISTRIBUTION RESTRICTION
+   You may NOT redistribute, publish, or make this skill available through
+   public repositories, marketplaces, or platforms without explicit written
+   permission from the copyright holders.
+
+4. MODIFICATION RESTRICTION
+   You may NOT create derivative works, modifications, or adaptations of this
+   skill without explicit written permission from the copyright holders.
+
+ATTRIBUTION REQUIREMENTS
+-------------------------
+When referencing this skill in documentation, publications, or communications:
+
+1. Clearly identify the copyright holders:
+   "Copyright 2025 James H. Rosing, MD, INC and Tacit Investments, LLC"
+
+2. Include a link to the original source if available
+
+3. Indicate if any modifications were made (if permitted under separate agreement)
+
+4. Preserve all copyright and license notices
+
+DISCLAIMER OF WARRANTIES
+------------------------
+THIS SKILL IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE SKILL OR THE USE OR OTHER DEALINGS IN
+THE SKILL.
+
+LICENSE VIOLATIONS
+------------------
+Any violation of this license, particularly the AI/ML training prohibition,
+constitutes copyright infringement and may result in:
+
+1. Immediate termination of all licenses granted herein
+2. Legal action to enforce copyright and seek damages
+3. Injunctive relief to prevent ongoing violations
+4. Recovery of attorneys' fees and costs
+
+PERMISSION REQUESTS
+-------------------
+To request permission for uses prohibited under this license, contact:
+
+James Rosing
+James H. Rosing, MD, INC
+Email: jamesrosing@gmail.com
+
+GOVERNING LAW
+-------------
+This license shall be governed by and construed in accordance with the laws of
+the State of California, without regard to its conflict of law provisions.
+
+Any disputes arising under this license shall be subject to the exclusive
+jurisdiction of the courts located in the State of California.
+
+================================================================================
+Last Updated: October 19, 2025
+License Version: 1.0
+Copyright Holders: James H. Rosing, MD, INC and Tacit Investments, LLC
